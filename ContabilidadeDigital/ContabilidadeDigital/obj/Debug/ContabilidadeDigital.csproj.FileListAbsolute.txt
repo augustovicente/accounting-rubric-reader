@@ -1,0 +1,11 @@
+c:\users\desktop\documents\visual studio 2015\Projects\ContabilidadeDigital\ContabilidadeDigital\bin\Debug\ContabilidadeDigital.exe.config
+c:\users\desktop\documents\visual studio 2015\Projects\ContabilidadeDigital\ContabilidadeDigital\bin\Debug\ContabilidadeDigital.exe
+c:\users\desktop\documents\visual studio 2015\Projects\ContabilidadeDigital\ContabilidadeDigital\bin\Debug\ContabilidadeDigital.pdb
+c:\users\desktop\documents\visual studio 2015\Projects\ContabilidadeDigital\ContabilidadeDigital\obj\Debug\ContabilidadeDigital.telaInicial.resources
+c:\users\desktop\documents\visual studio 2015\Projects\ContabilidadeDigital\ContabilidadeDigital\obj\Debug\ContabilidadeDigital.Properties.Resources.resources
+c:\users\desktop\documents\visual studio 2015\Projects\ContabilidadeDigital\ContabilidadeDigital\obj\Debug\ContabilidadeDigital.csproj.GenerateResource.Cache
+c:\users\desktop\documents\visual studio 2015\Projects\ContabilidadeDigital\ContabilidadeDigital\obj\Debug\ContabilidadeDigital.exe
+c:\users\desktop\documents\visual studio 2015\Projects\ContabilidadeDigital\ContabilidadeDigital\obj\Debug\ContabilidadeDigital.pdb
+c:\users\desktop\documents\visual studio 2015\Projects\ContabilidadeDigital\ContabilidadeDigital\bin\Debug\MySql.Data.dll
+c:\users\desktop\documents\visual studio 2015\Projects\ContabilidadeDigital\ContabilidadeDigital\obj\Debug\ContabilidadeDigital.csprojResolveAssemblyReference.cache
+C:\Users\Desktop\Documents\Visual Studio 2015\Projects\ContabilidadeDigital\ContabilidadeDigital\obj\Debug\ContabilidadeDigital.ImportaTxt.resources
