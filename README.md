@@ -1,4 +1,4 @@
-# Plataforma de orçamentos
+# Leitor de Rúbricas para contablidade
 
 As rúbricas para contabilidade são geradas em formato txt com um layout padrão, normatizado pelo MANAD (Manual Normativo de Arquivos Digitais).
 O objetivo deste sistema se trata de realizar a leitura deste arquivo txt e transformá-lo em uma tabela ou pdf no formato solicitado pelo cliente.
