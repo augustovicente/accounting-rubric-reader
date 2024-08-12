@@ -1,7 +1,6 @@
-# Leitor de Rúbricas para contablidade
+# The Accounting Rubric Reader
 
-As rúbricas para contabilidade são geradas em formato txt com um layout padrão, normatizado pelo MANAD (Manual Normativo de Arquivos Digitais).
-O objetivo deste sistema se trata de realizar a leitura deste arquivo txt e transformá-lo em uma tabela ou pdf no formato solicitado pelo cliente.
+The Accounting Rubric Reader is a system designed to read accounting rubrics generated in a standardized TXT format, as outlined by the MANAD (Normative Manual for Digital Files), which is specific to Brazilian accounting practices. The primary goal of this system is to convert the content of these TXT files into a table or PDF format, customized according to the client’s specifications. This ensures that accounting data is presented in a clear and organized manner, facilitating easier analysis and reporting.
 
 ## Prerequisites
 
